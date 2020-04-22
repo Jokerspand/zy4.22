@@ -6,5 +6,6 @@ public class UserTest {
 		
 		
 		System.out.println("helloWord");
+		System.out.println("hiWord");
 	}
 }
